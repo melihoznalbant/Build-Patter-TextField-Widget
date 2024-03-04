@@ -8,3 +8,5 @@ Supported Platforms
 * Web
 * MacOS
 * Windows
+
+![image](https://github.com/melihoznalbant/Build-Patter-TextField-Widget/assets/113714236/dc332d68-d63c-447e-aef7-c63a55a97041)
